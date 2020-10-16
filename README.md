@@ -1,5 +1,5 @@
-# PerfectPitch
-Ear training app for Elementary OS
+# Temperature
+Control your CPU temperature
 
 ## Installation
 
@@ -9,7 +9,6 @@ You'll need the following dependencies to build:
 
 * libgranite-dev
 * libgtk-3-dev
-* libgstreamer1.0-dev
 * meson
 * valac
 
@@ -23,9 +22,9 @@ ninja
 
 ### Installing & executing
 
-To install, use `ninja install`, then execute with `com.github.artempopof.perfectpitch`.
+To install, use `ninja install`, then execute with `com.github.artempopof.temperature`.
 
 ```bash
 sudo ninja install
-com.github.artempopof.perfectpitch
+com.github.artempopof.temperature
 ```
