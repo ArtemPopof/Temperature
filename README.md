@@ -1,6 +1,9 @@
 # Temperature
 Control your CPU temperature
-
+<br>
+<br>
+<br>
+<img width="256" src="https://sun9-58.userapi.com/vp8nMFvR_G3sMbBsi-SGojtXSWXVOzdNXx-_fA/XEwddbe2gT8.jpg"/>
 ## Installation
 
 ### Dependencies
